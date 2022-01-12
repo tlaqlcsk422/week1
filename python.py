@@ -1,1 +1,1 @@
-hi
+import turtle
